@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 LOCAL version of abc.txt
+=======
+REMOTE version of abc.txt
+>>>>>>> 8f8e2f7fe2d36fe20bf64c6fc5677865a0b904fa
